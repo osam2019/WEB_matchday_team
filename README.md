@@ -35,18 +35,18 @@
 ![enter image description here](https://lh3.googleusercontent.com/5C967IIgRRA_AawbanfPHIDx9TLSOeF79op9ROUvShRZIFXf745GXDT50X2_KGMr9n1aZWX0hZ4ERzwUY_FO6Ct7UyXeYLCp9yEJzrGh_nqIMfiJVUdu7e00ACAUEzus1VN8LHNVQMEnxGRUSdnjm04L3A7v-2XrbpzjnkpycIlLL8yY5A9VQyvfA92litDjb9xPDD27GiJUadwPc3DLe4ScCYJnWSuGnO3O3traTh7yDZf0W_KDggYorKTm4qwoTiIf7GetDYDQu8SHeDl7pLb-JLj71rlT9nkpknFzjx2xhmpCMrnTOKtYV8fwSVcWdAGTyeTNiiY5OXYA_lLpNkBl0_AuahxDIW2GRUzwG3J-__SlpWJ5ZFVHuBywybOCF7UoRlaTRvmnk_oe2D6r-baa9CeuDg55WXTLnhCtSZohhtC90oc-aO9i4aEG-9TPoBeTwnWZdgvLK4-lHoBQmuMCLrixbv7khc51ptoWouSNZmW_SRoLyoSq9Auu-LAqql8LN2F2eFJvzTI7RdbcY8a2tN6wcYNvJiGy5sJOKRY5lf8Advar649tOifaiQAxA2LqE9_H_5DlAnpvGJhCQjjysqUeqORsjC_VNYTYeOJlHGLRYPIs_Jbam4FuEzDFdj1AkWkZ0b8FVimYPUsk3aTiQiNJCfOqAtc2aVRVsZsY2Ik=w1169-h662-no)
 
 # 파일 정보 및 목록 (File Manifest)
-+-- views
-│ Home.vue							초기화면 / 검색,추가 기능
-│ Hostgame.vue					더미데이터, 의미없음
-│ Login.vue							 더미데이터, 의미없음
- │ Mygame.vue						현재 진행중인 게임, 종료된 게임
- │ Profile.vue							로그인화면 및 프로필화면
- │ Showendgame.vue			종료된 게임 데이터 뷰
- │ Showgame.vue					게임 데이터 종합 표현 뷰
-App.vue									
-main.js
-router.js									v-router 기본설정
-store.js
+- views
+-  Home.vue							초기화면 / 검색,추가 기능
+- Hostgame.vue					더미데이터, 의미없음
+- Login.vue							 더미데이터, 의미없음
+-  Mygame.vue						현재 진행중인 게임, 종료된 게임
+-  Profile.vue							로그인화면 및 프로필화면
+-  Showendgame.vue			종료된 게임 데이터 뷰
+-  Showgame.vue					게임 데이터 종합 표현 뷰
+- App.vue									
+- main.js
+- router.js									v-router 기본설정
+- store.js
 
 
 
@@ -64,9 +64,9 @@ none
 rorigu32@gmail.com로 연락해주시기 바랍니다.
 
 # 개발자
-**Team Anigo**
-국군지휘통신사령부 상병 최다함
-방공유도탄사령부 병장 이동훈
+- **Team Anigo**
+- 국군지휘통신사령부 상병 최다함
+- 방공유도탄사령부 병장 이동훈
 
 # Change Log
 
