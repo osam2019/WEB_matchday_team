@@ -61,12 +61,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 For more information, please refer to <https://unlicense.org>
 
-# Known Issues
-none
-
-# Troubleshooting
-rorigu32@gmail.com로 연락해주시기 바랍니다.
-
 # 개발자
 - **Team Anigo**
 - 국군지휘통신사령부 상병 최다함
@@ -74,5 +68,7 @@ rorigu32@gmail.com로 연락해주시기 바랍니다.
 
 # Change Log
 
-version 0.1 (24/10/2019)
+- version 0.1 (24/10/2019)
+
+- create by Vue,Vuetify,goorm ide
  
