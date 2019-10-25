@@ -21,7 +21,7 @@ https://vue-hello-one.firebaseapp.com/
 ```
 1. yarn install
 2. locate directory
-3. serve yarn
+3. yarn serve
 3. http://localhost:8080/ 
 ```
 
