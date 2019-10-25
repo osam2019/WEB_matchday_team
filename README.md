@@ -19,8 +19,9 @@ https://vue-hello-one.firebaseapp.com/
 # 설치 안내 (Installation Process)
 
 ```
-1. npm install(npm i)
-2. npm run serve
+1. yarn install
+2. locate directory
+3. serve yarn
 3. http://localhost:8080/ 
 ```
 
